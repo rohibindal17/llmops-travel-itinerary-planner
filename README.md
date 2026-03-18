@@ -250,9 +250,3 @@ git config --global user.name "your-username"
 ```
 
 When pushing, use your GitHub **Personal Access Token** as the password (it won't be visible when typed).
-
----
-
-## 📄 License
-
-This project is open-source. Feel free to fork and build on it!
