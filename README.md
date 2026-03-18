@@ -4,14 +4,6 @@
 
 ---
 
-## 📌 Recommended Repo Name
-
-**`llmops-travel-itinerary-planner`**
-
-> Reflects both the LLMOps deployment pipeline (Docker → Kubernetes → ELK monitoring) and the core product (AI travel itinerary generation).
-
----
-
 ## 🧠 What It Does
 
 Users enter a **city** and their **interests**, and the app generates a personalized day-trip itinerary using a large language model via the Groq API. The entire application is containerized, orchestrated with Kubernetes, and observable through a full ELK logging stack.
